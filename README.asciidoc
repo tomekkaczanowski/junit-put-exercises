@@ -1,0 +1,4 @@
+== Basic Info
+This project contains all the source code of exercises for "Practical Unit Testing with JUnit and Mockito" book by Tomek Kaczanowski.
+
+See the book's website: http://practicalunittesting.com
